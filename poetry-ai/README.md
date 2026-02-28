@@ -170,6 +170,7 @@ The application uses a **LangGraph** workflow to route queries:
 2. **Tool Selection**: Routes to appropriate handler (QA, classification, recommendation)
 3. **Response Generation**: Returns formatted response to user
 
+<img src="https://github.com/myraidtaoai/data-science-application/blob/main/poetry-ai/graph_workflow.png" alt="Architecture Diagram" width="600"/>
 ## License
 
 MIT License
